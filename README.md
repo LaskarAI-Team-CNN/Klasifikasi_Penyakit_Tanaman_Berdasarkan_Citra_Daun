@@ -1,0 +1,2 @@
+# Klasifikasi_Penyakit_Tanaman_Berdasarkan_Citra_Daun
+LaskarAI - Capstone Project
