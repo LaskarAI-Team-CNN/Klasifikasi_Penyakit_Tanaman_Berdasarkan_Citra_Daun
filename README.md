@@ -1,2 +1,2 @@
-# Klasifikasi_Penyakit_Tanaman_Berdasarkan_Citra_Daun
+# Klasifikasi Penyakit Tanaman Berdasarkan Citra Daun
 LaskarAI - Capstone Project
