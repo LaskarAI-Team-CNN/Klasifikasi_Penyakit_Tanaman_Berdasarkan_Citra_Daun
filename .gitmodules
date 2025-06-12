@@ -1,0 +1,6 @@
+[submodule "frontend-leafcheck"]
+	path = frontend-leafcheck
+	url = https://github.com/aditiaprabowo3/frontend-leafcheck
+[submodule "api-leafcheck"]
+	path = api-leafcheck
+	url = https://github.com/aditiaprabowo3/api-leafcheck
