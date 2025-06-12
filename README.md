@@ -4,7 +4,7 @@ LaskarAI - Capstone Project
 ## ID Grup
 LAI25-SS068
 
-## ID Grup
+## Anggota Capstone
 A193YBM010 - Adiasaputra - A193YBM010@devacademy.id
 
 A211YBF014 - Aditia Prabowo	- A211YBF014@devacademy.id
