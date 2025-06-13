@@ -4,3 +4,6 @@
 [submodule "api-leafcheck"]
 	path = api-leafcheck
 	url = https://github.com/aditiaprabowo3/api-leafcheck
+[submodule "model-leafcheck"]
+	path = model-leafcheck
+	url = https://github.com/aditiaprabowo3/model-leafcheck
